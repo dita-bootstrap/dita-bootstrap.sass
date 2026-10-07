@@ -1,7 +1,7 @@
 {
   "name": "dita-bootstrap.sass",
   "description": "DITA Open Toolkit plug-in that extends HTML output from the DITA Bootstrap plug-in with a Sass theme",
-  "homepage": "https://dita-bootstrap.github.io/sass.html",
+  "homepage": "https://dita-bootstrap.org/html/sass.html",
   "repository": {
     "type": "git",
     "url": "https://github.com/dita-bootstrap/dita-bootstrap.sass.git"
